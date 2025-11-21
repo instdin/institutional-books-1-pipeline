@@ -408,7 +408,7 @@ def process_page_number_chunk(
     if (
         (current.line_number <= 5 or current.line_number > (current.total_lines // 10 * 9))
         and current.text
-        and current.text.split(" ") == 1
+        and len(current.text.split(" ")) == 1
     ):
         return ""
 
