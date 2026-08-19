@@ -1,5 +1,5 @@
 # 📚 Institutional Books Pipeline
-The Institutional Data Initiative's pipeline for analyzing, refining, and publishing the Institutional Books 1.0 collection.
+The Institutional Data Initiative's pipeline for analyzing, refining, and publishing the Institutional Books datasets.
 
 - 🤗 [Institutional Books on HuggingFace](https://huggingface.co/collections/instdin/institutional-books-68366258bfb38364238477cf)
 - 📄 [Technical report](https://arxiv.org/abs/2506.08300)
